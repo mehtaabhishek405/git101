@@ -1,2 +1,3 @@
 # git101
-Basic github demo.
+
+this is changed text for local computer.
