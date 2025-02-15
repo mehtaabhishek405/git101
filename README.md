@@ -1,5 +1,2 @@
-# git101
-
-this is changed text for local computer.
-
-this is the second example.
+# My first repo
+message is changed in github
